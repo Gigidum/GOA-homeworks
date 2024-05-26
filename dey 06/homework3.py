@@ -1,0 +1,6 @@
+num1 = (20)
+num2 = (15)
+num3 = (270)
+num4 = (num1 + num2 + num3)
+num5 = (num4 / 3)
+print(num5)
