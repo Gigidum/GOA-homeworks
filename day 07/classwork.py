@@ -10,4 +10,4 @@ print(number1 > number2)
 print(number1 < number2)
 
 print(5 == 5)
-print("goA"" == goa)
+print("goA" == "goa")
