@@ -1,4 +1,3 @@
-x = 15 
-y = 3 
-str = x * y
-print (str)
+x = 25 
+y = 100
+print (25*100)
